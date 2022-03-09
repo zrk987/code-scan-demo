@@ -1,0 +1,20 @@
+{
+  "name": "github-security-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/auth-app": "^3.6.1",
+    "@octokit/core": "^3.5.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "jwt-encode": "^1.0.1",
+    "pem-file": "^1.0.1"
+  }
+}
